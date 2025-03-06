@@ -201,4 +201,4 @@ A compilation of code examples, mini-projects, and technical demonstrations show
 ### Contact
 - Contact form
 - Email, LinkedIn, GitHub links
-- Location
+- Location - United States
